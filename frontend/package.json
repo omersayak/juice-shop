@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-builders/custom-webpack": "^15.0.0",
+    "@angular-builders/custom-webpack": "^18.0.0",
     "@angular-devkit/build-angular": "^15.0.4",
     "@angular-material-extensions/password-strength": "^6.0.0",
     "@angular/animations": "^15.0.4",
@@ -44,7 +44,7 @@
     "codemirror": "^5.65.14",
     "codemirror-solidity": "^0.2.5",
     "core-js": "^3.22.5",
-    "ethers": "^5.7.2",
+    "ethers": "^6.0.0",
     "file-saver": "^2.0.2",
     "flag-icons": "^6.9.2",
     "font-mfizz": "^2.4.1",
